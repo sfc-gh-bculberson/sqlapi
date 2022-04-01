@@ -11,8 +11,8 @@ from jwt.utils import get_int_from_datetime
 
 # Set these values
 private_key_pem_path = '<PATH_TO_PRIVATE_KEY>rsa_key.p8'
-passphrase = 'test'
-account = 'SFSENORTHAMERICA_DEMO226'
+passphrase = '<PASSPHRASE>'
+account = '<ACCOUNT>'
 user = 'API_DEMO_USER'
 
 # Read the private key file contents
