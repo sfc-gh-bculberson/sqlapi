@@ -10,7 +10,7 @@ import jwt
 from jwt.utils import get_int_from_datetime
 
 # Set these values
-private_key_pem_path = '/Users/bculberson/api-demo/rsa_key.p8'
+private_key_pem_path = '<PATH_TO_PRIVATE_KEY>rsa_key.p8'
 passphrase = 'test'
 account = 'SFSENORTHAMERICA_DEMO226'
 user = 'API_DEMO_USER'
